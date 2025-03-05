@@ -44,19 +44,19 @@ const Campaigns = () => {
           <div className="movement-card">
             <h3>#MeToo (2017)</h3>
             <p>Movimento global que expôs casos de assédio sexual, iniciando uma enorme conversa sobre violência de gênero.</p>
-            <a href="#" className="learn-more">Saiba mais</a>
+            <button className="learn-more">Saiba mais</button>
           </div>
           
           <div className="movement-card">
             <h3>#ElaDecide</h3>
             <p>Focado nos direitos reprodutivos e de autonomia corporal das mulheres.</p>
-            <a href="#" className="learn-more">Saiba mais</a>
+            <button className="learn-more">Saiba mais</button>
           </div>
           
           <div className="movement-card">
             <h3>#ChegaDeFiuFiu</h3>
             <p>Uma campanha brasileira contra o assédio sexual em espaços públicos.</p>
-            <a href="#" className="learn-more">Saiba mais</a>
+            <button className="learn-more">Saiba mais</button>
           </div>
         </div>
       </div>
