@@ -1,5 +1,16 @@
 :root {
   color-scheme: only light;
+  -webkit-color-scheme: only light;
+  forced-color-adjust: none;
+  -webkit-forced-color-adjust: none;
+}
+
+html, body {
+  background-color: #E5CBCE !important;
+  color-scheme: only light;
+  -webkit-color-scheme: only light;
+  forced-color-adjust: none;
+  -webkit-forced-color-adjust: none;
 }
 
 body {

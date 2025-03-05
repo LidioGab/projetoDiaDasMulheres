@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Dia das Mulheres",
+  "name": "Projeto Dia das Mulheres",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,9 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#E5CBCE",
+  "background_color": "#E5CBCE",
+  "prefer_related_applications": false,
+  "display_override": ["standalone"],
+  "color_scheme": "light"
 }
